@@ -386,7 +386,7 @@
     'body': 'Template.${1:name}.onCreated = ->
       \n\t$2'
 
-  'Template onCreated':
+  'Template destroyed':
     'prefix': 'destroyed'
     'body': '
       Template.${1:name}.onDestroyed = ->
